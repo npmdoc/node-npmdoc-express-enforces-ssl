@@ -1,4 +1,7 @@
-# api documentation for  [express-enforces-ssl (v1.1.0)](https://github.com/aredo/express-enforces-ssl)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-enforces-ssl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-enforces-ssl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-enforces-ssl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-enforces-ssl)
+# npmdoc-express-enforces-ssl
+
+#### api documentation for  [express-enforces-ssl (v1.1.0)](https://github.com/aredo/express-enforces-ssl)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-enforces-ssl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-enforces-ssl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-enforces-ssl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-enforces-ssl)
+
 #### Enforces SSL for node.js express projects
 
 [![NPM](https://nodei.co/npm/express-enforces-ssl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-enforces-ssl)
@@ -60,7 +63,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
